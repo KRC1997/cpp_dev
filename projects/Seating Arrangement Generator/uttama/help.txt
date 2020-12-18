@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+|                                                                             |
+|                                    HELP                                     |
+|                                                                             |
+-------------------------------------------------------------------------------
+|       SEAT ARANGER 1.0                                                      |
+|========================================                                     |
+| *The program works on the details entered into the settings tab. This forms |
+| the basis of the arrangements produced by the program.                      |
+| Please enter the details carefully.                                         |
+|                                                                             |
+| *The arrangements and then produced depending upon the classes chosen at the|
+| begining of the "CREATE ARRANGEMENTS" screen.                               |
+| Just select the classes you want and hit DONE.                              |
+| Select a chosen class to de-select it.                                      |
+|                                                                             |
+| *Every arrangement can be stored into a file for printing. Just give your   |
+| file a unique name and your all done.                                       |
+-------------------------------------------------------------------------------
